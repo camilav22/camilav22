@@ -1,16 +1,15 @@
-### Hi there 👋
+BEM VINDOS AO MEU PERFIL! 🖤
 
-<!--
-**camilav22/camilav22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camila 🥤
 
-Here are some ideas to get you started:
+Sou estundante da 2°série e estudo na [ALURA](https://www.alura.com.br/)📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este espaço é dedicado para organiar e compartilhar meus projetos desenvolvodos!
+
+QUER ENTRAR EM CONTATO? ENVIE UM 📫
+
+camila.valin@escola.pr.gov.br
+
+![](https://media.tenor.com/_KThQOroE60AAAAM/the-simpsons-homer.gif)
+
+ 
