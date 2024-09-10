@@ -2,7 +2,7 @@ BEM VINDOS AO MEU PERFIL! 🖤
 
 Meu nome é Camila 🥤
 
-Sou estundante da 2°série e estudo na [ALURA](https://www.alura.com.br/)📝
+Sou estundante da 3°série e estudo na [ALURA](https://www.alura.com.br/)📝
 
 Este espaço é dedicado para organiar e compartilhar meus projetos desenvolvodos!
 
